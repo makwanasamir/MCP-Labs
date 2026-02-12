@@ -1,0 +1,10 @@
+node_modules/
+dist/
+deploy.zip
+*.zip
+.azure/
+tmp_extract/
+local.settings.json
+venv/
+__pycache__/
+.env

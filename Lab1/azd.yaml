@@ -1,0 +1,6 @@
+name: public-holidays-mcp
+services:
+  function:
+    project: .
+    language: node
+    path: .

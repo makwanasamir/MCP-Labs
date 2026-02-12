@@ -1,0 +1,15 @@
+*.js.map
+*.ts
+.git*
+.vscode
+local.settings.json
+test
+tests
+tsconfig.json
+node_modules
+.env
+.DS_Store
+*.log
+deploy.zip
+README.md
+next-steps.md

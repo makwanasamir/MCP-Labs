@@ -1,0 +1,17 @@
+node_modules/
+dist/
+.env
+.azure
+.vscode
+local.settings.json
+deploy.zip
+*.tgz
+.DS_Store
+npm-debug.log
+yarn-error.log
+/.history
+/.idea
+coverage/
+test/
+tests/
+next-steps.md

@@ -1,0 +1,22 @@
+{
+  "name": "public-holidays-mcp",
+  "version": "0.1.0",
+  "private": true,
+  "main": "dist/index.js",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "start:func": "func start --port 7071 --verbose",
+    "dev": "npm run start:func"
+  },
+  "dependencies": {
+    "@azure/functions": "^4.9.0",
+    "axios": "^1.4.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0"
+  }
+}
