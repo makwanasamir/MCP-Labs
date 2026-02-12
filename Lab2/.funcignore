@@ -1,0 +1,10 @@
+.git*
+local.settings.json
+test
+tests
+tsconfig.json
+src
+.env
+.DS_Store
+deploy.zip
+README.md
