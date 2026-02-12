@@ -8,3 +8,12 @@ local.settings.json
 venv/
 __pycache__/
 .env
+
+# Reference templates (not part of the project)
+remote-mcp-functions-typescript-main/
+
+# Internal notes
+notes.txt
+demo2-prompt.txt
+demo2-backup-url.txt
+next-steps.md

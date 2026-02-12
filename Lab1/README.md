@@ -407,14 +407,11 @@ Lab1/
 │   ├── functions/
 │   │   ├── holidaysMcpTools.ts   # MCP tool registrations (app.mcpTool)
 │   │   └── testHttp.ts           # Health-check HTTP endpoint
-│   ├── services/
-│   │   └── holidaysService.ts    # Nager.Date API wrapper (axios → Nager.Date)
-│   └── tools/
-│       └── holidaysTools.ts      # Tool definitions & handler logic
+│   └── services/
+│       └── holidaysService.ts    # Nager.Date API wrapper (axios → Nager.Date)
 ├── host.json                     # Azure Functions host + MCP extension config
 ├── package.json                  # Dependencies & scripts
 ├── tsconfig.json                 # TypeScript configuration
-├── azd.yaml                      # Azure Developer CLI config
 ├── .funcignore                   # Files excluded from deployment
 ├── .gitignore                    # Files excluded from git
 └── README.md                     # This file
