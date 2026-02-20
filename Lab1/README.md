@@ -1,4 +1,4 @@
-# Lab 1 — Public Holidays MCP Server
+# Lab 1 — Public Holidays MCP Server (without SDK)
 
 A remote MCP server on **Azure Functions v4 (Node.js 24, Linux)** using the **built-in `app.mcpTool()` API**. Wraps the free [Nager.Date](https://date.nager.at/) API to expose public holiday data as AI-consumable tools.
 
